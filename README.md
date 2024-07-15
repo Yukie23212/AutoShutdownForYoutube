@@ -1,6 +1,3 @@
-Here's an improved version of your README for GitHub:
-
----
 
 # YouTube Video Shutdown Script
 
@@ -54,7 +51,3 @@ Currently, it's set to 300 seconds (5 minutes).
 ```bash
 shutdown /a
 ```
-
----
-
-This improved version includes a clear structure, proper formatting, and additional context for ease of understanding.
