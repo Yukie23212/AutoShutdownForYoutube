@@ -1,4 +1,4 @@
-# YouTube Video Shutdown Script
+# Shutdown PC after a youtube Video uploaded
 
 This script allows you to schedule a shutdown after uploading a video to YouTube using the YouTube Data API v3.
 
