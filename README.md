@@ -32,7 +32,7 @@ pip install google-api-python-client
 
 ## How to Use
 
-1. Download "ShutdownYT.py" and open it with Notepad.
+1. Download `ShutdownYT.py` and open it with Notepad.
 2. Replace `'YOUR_API_KEY'` with your actual API key in the script.
 3. Replace `'P6ZLlJNAmnz'` with your actual video ID. Example: For the URL `https://youtu.be/P6ZLlJNAmnz` or `https://www.youtube.com/watch?v=P6ZLlJNAmnz`, use the ID `P6ZLlJNAmnz`.
 4. Save the script to a file.
