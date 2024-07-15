@@ -6,7 +6,7 @@ This script allows you to schedule a shutdown after uploading a video to YouTube
 ## Prerequisites
 
 - You need a YouTube API Key to use this script.
-
+- and Python [Download](https://www.python.org/downloads/)
 ## Step-by-Step Guide
 
 ### 1. Enable the YouTube Data API v3
