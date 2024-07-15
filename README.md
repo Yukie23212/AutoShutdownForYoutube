@@ -42,6 +42,7 @@ pip install google-api-python-client
 
 - Set the video's visibility to "Public" or "Unlisted" since "Private" won't work as the script can't check it.
 - You can change the shutdown timer at the bottom of the script:
+- if it working it will be showing `Current upload status: uploaded. Checking again in 60 seconds...`
 
 ```python
 os.system("shutdown /s /t 300")
