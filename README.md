@@ -11,7 +11,7 @@ This script allows you to schedule a shutdown after uploading a video to YouTube
 
 ### 1. Enable the YouTube Data API v3
 
-1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/). Use the same account that you will use for create project and upload a video
 2. Create a new project or select an existing project. If it's your first project, it will show "My First Project" at the top left.
 3. Navigate to `APIs & Services > Library`. Click on the navigation menu (three lines) on the left side to see "APIs & Services".
 4. Search for "YouTube Data API v3" and enable it.
