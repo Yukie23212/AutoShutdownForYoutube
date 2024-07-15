@@ -23,7 +23,7 @@ This script allows you to schedule a shutdown after uploading a video to YouTube
 3. Copy the generated API key and keep it secure.
 
 ### 3. Install the Google API Client Library
-
+- Use Command Prompt For Install.
 ```bash
 pip install google-api-python-client
 ```
